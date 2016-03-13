@@ -81,12 +81,12 @@
  - [C Progressivo](http://www.cprogressivo.net/)
  - [Learn C](http://www.learn-c.org/)
  - [Teach Yourself C in 24 Hours](http://aelinik.free.fr/c/)
+ - [Stanford CS Education Library](http://cslibrary.stanford.edu/)
  - [C Gibberish ↔ English](http://www.cdecl.org/)
  - [Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
  - [OOC](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf)
  - [UNIX System Calls and Subroutines using C](http://www.cs.cf.ac.uk/Dave/C/)
  - [IAR Advanced preprocessor tips and tricks](https://www.iar.com/support/resources/articles/advanced-preprocessor-tips-and-tricks/)
- - [C Linked List Data Structure Explained with an Example C Program](http://www.thegeekstuff.com/2012/08/c-linked-list-example/)
  - [Organizing Code Files in C and C++](http://www.gamedev.net/page/resources/_/technical/general-programming/organizing-code-files-in-c-and-c-r1798)
 
 ## Python
