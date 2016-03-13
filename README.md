@@ -277,6 +277,7 @@
  - [Multivariable Calculus (Whitman)](https://www.whitman.edu/mathematics/multivariable/multivariable.pdf)
  - [Differential & Integral Calculus (UCLA)](https://www.youtube.com/playlist?list=PL1BE3027EF549C7D1)
  - [Probability (UCLA)](https://www.youtube.com/playlist?list=PL5BE09709EECF36AA)
+ - [Anotações Matemáticas (Renji Rodrigo)](https://bmpa.wordpress.com/2012/04/29/minhas-anotacoes/)
 
 ## Physics
  - Material Recomendado
