@@ -17,7 +17,6 @@
  - [Miscellaneous](#miscellaneous)
 
 ## General Programming
-
  - [Computer Science Books](https://shodan.me/books/)
  - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
  - [621+ Programming Resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.sr0jfcxu4)
@@ -55,7 +54,6 @@
    - [Understanding git for real by exploring the .git directory](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.9on7nfk8z)
 
 ## Learning Platforms
-
  - Code
    - [Code.org](https://www.code.org/)
    - [Codeacademy](http://www.codecademy.com/)
@@ -77,7 +75,6 @@
 ## Languages
 
 ## C & C++
-
  - [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
  - [21st Century C](http://localhost:8888/freenet:USK@cgY7pORBDEKwX1-7peY3rZX8DaZC4MdrC4pqVKydwTs,kY2i~NPnSlqo7UngXWZmcYor3YSgub1hne6nmRILb8Y,AQACAAE/21st_century_c/1/)
  - [C Progressivo](http://www.cprogressivo.net/)
@@ -92,7 +89,6 @@
  - [Organizing Code Files in C and C++](http://www.gamedev.net/page/resources/_/technical/general-programming/organizing-code-files-in-c-and-c-r1798)
 
 ## Python
-
  - [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/)
  - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
  - [Python Programming](http://www.jeffknupp.com/)
@@ -104,7 +100,6 @@
  - [Python Tutor](http://pythontutor.com/)
 
 ## Ruby
-
  - [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/)
  - [Humble Little Ruby Book](http://humblelittlerubybook.com/book/html/)
  - [Poignant Guide to Ruby](http://poignant.guide/book/chapter-1.html)
@@ -117,17 +112,17 @@
  - [Writing a compiler in Ruby, bottom up](http://hokstad.com/compiler)
  - [Pocket Programming - Ruby/Rails](http://rails.pocket-programming.com/)
 
-## Java
+## Perl
+ - [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
 
+## Java
  - [Java Starter](http://t2ti.com/curso/video/java/basico/java_starter.php)
  - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## HTML/CSS
-
  - [Develop & Style Websites](http://learn.shayhowe.com/)
 
 ## PHP
-
  - [Design Patterns - PHP: The Right Way](http://www.phptherightway.com/pages/Design-Patterns.html)
 
 ## SQL
@@ -136,7 +131,6 @@
  - [The Codex » Do Not Pass This Way Again](http://grimoire.ca/mysql/choose-something-else)
 
 ## R
-
  - [Code School - Try R](http://tryr.codeschool.com/)
  - [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
  - [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
@@ -144,7 +138,6 @@
  - [swirl: Learn R, in R.](http://swirlstats.com/)
 
 ## Haskell
-
  - [YBlog - Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
  - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
  - [Aprender Haskell será um grande bem para você!](http://haskell.tailorfontela.com.br/chapters)
@@ -165,17 +158,14 @@
  - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 
 ## Javascript
-
  - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
  - [The Entire JS Language in One Image](http://d2brer6wwumtdu.cloudfront.net/wp-content/uploads/2015/09/09191550/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg)
 
 ## OCaml
-
  - [OCaml Tutorials](http://ocaml.org/learn/tutorials/)
 
 ## Clojure
-
  - [Try Clojure](http://tryclj.com/)
  - [Clojure for the Brave and True](http://www.braveclojure.com/)
  - [Clojure from the Ground Up](http://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
@@ -184,12 +174,10 @@
  - [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
 
 ## F#
-
  - [Learning F#](http://fsharp.org/about/learning.html)
  - [F# syntax in 60 seconds](http://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
 
 ## Erlang
-
  - [The Zen of Erlang](http://ferd.ca/the-zen-of-erlang.html)
  - [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/content)
  - [Try Erlang](http://www.tryerlang.org/)
@@ -199,11 +187,10 @@
 ## Lisp
 
 ## Scheme
-
  - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html)
 
 ## Encryption and Hashing
-
+ - [Encoding vs Encryption vs Hashing vs Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
  - [GPG/PGP Basics](http://aplawrence.com/Basics/gpg.html)
  - [An Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
  - [GPG tutorial and PGP Public Key](https://futureboy.us/pgp.html)
@@ -211,13 +198,11 @@
  - [Provably Fair Shuffling Through Cryptography](https://techblog.bitzino.com/2012-06-30-provably-fair-shuffling-through-cryptography.html)
 
 ## Networks
-
  - [Redes de Computadores](https://pt.coursera.org/course/comnetworks)
  - [Tráfego | RNP](http://www.rnp.br/servicos/conectividade/trafego)
  - [SIMET](http://simet.nic.br/mapas/)
 
 ## Compilers
-
  - [Grammar: The language of languages](http://matt.might.net/articles/grammars-bnf-ebnf/)
  - [How parsers and compilers work](http://parsingintro.sourceforge.net/)
  - [LL and LR in Context: Why Parsing Tools Are Hard](http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html)
@@ -227,7 +212,6 @@
  - [Compiler Design Tutorial](http://www.tutorialspoint.com/compiler_design/index.htm)
 
 ## Machine Learning
-
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
  - [Machine Learning Foundations](https://www.coursera.org/learn/ml-foundations/)
  - [A Course in Machine Learning](http://ciml.info/)
@@ -253,7 +237,6 @@
  - [Weka 3 - Data Mining](http://www.cs.waikato.ac.nz/ml/weka/)
 
 ## YouTube
-
  - [Computerphile](https://www.youtube.com/user/Computerphile)
  - [Numberphile](https://www.youtube.com/user/numberphile)
  - [Matemática Rio](https://www.youtube.com/user/matematicario)
@@ -299,5 +282,6 @@
 ## Miscellaneous
  - [Trending in Open Source](https://github.com/trending)
  - [Explore GitHub](https://github.com/explore)
+ - [Github Visualizer](http://veniversum.me/git-visualizer/)
  - [The ultimate guide on preventing Website Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping)
  - [Type Theory: A Modern Computable Paradigm for Math](http://www.science4all.org/le-nguyen-hoang/type-theory/)
