@@ -119,11 +119,16 @@
  - [Java Starter](http://t2ti.com/curso/video/java/basico/java_starter.php)
  - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 
-## HTML/CSS
- - [Develop & Style Websites](http://learn.shayhowe.com/)
-
 ## PHP
  - [Design Patterns - PHP: The Right Way](http://www.phptherightway.com/pages/Design-Patterns.html)
+
+## Javascript
+ - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
+ - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+ - [The Entire JS Language in One Image](http://d2brer6wwumtdu.cloudfront.net/wp-content/uploads/2015/09/09191550/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg)
+
+## HTML/CSS
+ - [Develop & Style Websites](http://learn.shayhowe.com/)
 
 ## SQL
  - [SQL Completo - Softblue](http://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS)
@@ -156,11 +161,6 @@
  - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
  - [An Introduction to Cabal sandboxes](http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html)
  - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
-
-## Javascript
- - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
- - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
- - [The Entire JS Language in One Image](http://d2brer6wwumtdu.cloudfront.net/wp-content/uploads/2015/09/09191550/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg)
 
 ## OCaml
  - [OCaml Tutorials](http://ocaml.org/learn/tutorials/)
