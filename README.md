@@ -42,7 +42,6 @@
  - [Quick Summary of Programming Languages](https://wiki.installgentoo.com/index.php/Programming_languages)
  - [Programming Concepts](https://wiki.installgentoo.com/index.php/Programming_concepts)
  - [CS50](https://cs50.harvard.edu/)
-
  - Git
    - [Pro Git Book](http://git-scm.com/book/en/v2)
    - [Git for beginners: The definitive practical guide](http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
@@ -57,7 +56,6 @@
 
  - Code
    - [Code.org](https://www.code.org/)
-   - [Coursera](https://www.coursera.org/)
    - [Codeacademy](http://www.codecademy.com/)
    - [Codeavengers](http://www.codeavengers.com/)
    - [Codeschool](https://www.codeschool.com/)
