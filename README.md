@@ -271,6 +271,7 @@
  - Material Recomendado
    - [Física Experimental - Lab1](http://www.fisica.ufmg.br/~lab1/)
    - [Física Experimental Básica na Universidade](https://www.passeidireto.com/arquivo/975892/fisica-experimental-basica-na-universidade-)
+ - [Feynman Lectures (Caltech)](http://www.feynmanlectures.caltech.edu/)
  - [Physics (MIT)](http://ocw.mit.edu/courses/physics/)
 
 ## Games and Contests
@@ -285,6 +286,7 @@
  - [Trending in Open Source](https://github.com/trending)
  - [Explore GitHub](https://github.com/explore)
  - [Github Visualizer](http://veniversum.me/git-visualizer/)
+ - [SciHub](http://sci-hub.io/)
  - [Software Licenses in Plain English](https://tldrlegal.com/)
  - [Koding for Teams](http://www.koding.com/)
  - [Livecoding.TV](https://www.livecoding.tv/)
