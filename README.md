@@ -26,6 +26,7 @@
  - [Shared Tech Resources](https://www.dropbox.com/sh/n01pbk76jy0fbcz/AACbIvq_EPfkHkBph62G4sjFa)
  - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
  - [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
+ - [DevDocs - Multiple Documentations](http://devdocs.io/)
  - [Build a Modern Computer from First Principles](https://www.coursera.org/learn/build-a-computer)
  - Today I Learned (TIL)
    - [jbranchaud/til](https://github.com/jbranchaud/til)
