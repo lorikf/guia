@@ -174,7 +174,7 @@
  - [4Clojure](http://www.4clojure.com/)
  - [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
 
-## F\#
+## F&#35;
  - [Learning F#](http://fsharp.org/about/learning.html)
  - [F# syntax in 60 seconds](http://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
 
