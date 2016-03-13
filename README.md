@@ -40,6 +40,7 @@
  - [Translating Mathematics into Code](http://matt.might.net/articles/discrete-math-and-code/)
  - [Learn Enough to Be Dangerous](http://www.learnenough.com/)
  - [Quick Summary of Programming Languages](https://wiki.installgentoo.com/index.php/Programming_languages)
+ - [Programming Languages Paradigms](http://www.cyan-lang.org/jose/courses/14-1/PLP/lpa.pdf)
  - [Programming Concepts](https://wiki.installgentoo.com/index.php/Programming_concepts)
  - [CS50](https://cs50.harvard.edu/)
  - Git
@@ -145,6 +146,7 @@
 
  - [YBlog - Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
  - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+ - [Aprender Haskell será um grande bem para você!](http://haskell.tailorfontela.com.br/chapters)
  - [Real World Haskell](http://book.realworldhaskell.org/read/)
  - [Haskell (Wikibooks)](https://en.wikibooks.org/wiki/Haskell)
  - [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
