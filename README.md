@@ -11,6 +11,7 @@
  - [Compilers](#compilers)
  - [Machine Learning](#machine-learning)
  - [YouTube](#youtube)
+ - [Podcasts](#podcasts)
  - [Mathematics](#mathematics)
  - [Physics](#physics)
  - [Games & Contests](#games-and-contests)
