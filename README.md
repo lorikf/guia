@@ -36,7 +36,7 @@
  - [Big O Complexity Cheat Sheet](http://bigocheatsheet.com/)
  - [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
  - [Computer Science Field Guide](http://www.cosc.canterbury.ac.nz/csfieldguide/dev/dev/index.html)
- - [YALB Reading List](http://onlurking.github.io/reading/)
+ - [Onlurking's Reading List](http://onlurking.github.io/reading/)
  - [Translating Mathematics into Code](http://matt.might.net/articles/discrete-math-and-code/)
  - [Learn Enough to Be Dangerous](http://www.learnenough.com/)
  - [Quick Summary of Programming Languages](https://wiki.installgentoo.com/index.php/Programming_languages)
@@ -76,7 +76,6 @@
 
 ## C & C++
  - [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
- - [21st Century C](http://localhost:8888/freenet:USK@cgY7pORBDEKwX1-7peY3rZX8DaZC4MdrC4pqVKydwTs,kY2i~NPnSlqo7UngXWZmcYor3YSgub1hne6nmRILb8Y,AQACAAE/21st_century_c/1/)
  - [C Progressivo](http://www.cprogressivo.net/)
  - [Learn C](http://www.learn-c.org/)
  - [Teach Yourself C in 24 Hours](http://aelinik.free.fr/c/)
