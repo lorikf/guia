@@ -185,10 +185,17 @@
 
 ## Smalltalk
 
-## Lisp
+## Common Lisp
+- [Lisp Hackers, Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers)
+- [[L(λ)THW] Learn Lisp The Hard Way](http://learnlispthehardway.org/)
+- [Paul Graham's On Lisp, Advanced Techniques for Common Lisp](http://www.paulgraham.com/onlisp.html)
+- [Lisp in Small Parts](http://lisp.plasticki.com/)
+- [Common Lisp Koans](https://github.com/google/lisp-koans)
+- [CLiki, Common Lisp Wiki](http://www.cliki.net/)
 
 ## Scheme
  - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html)
+ - [Community Scheme Wiki](http://community.schemewiki.org/)
 
 ## Encryption and Hashing
  - [Encoding vs Encryption vs Hashing vs Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
