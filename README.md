@@ -11,6 +11,7 @@
  - [Compilers](#compilers)
  - [Machine Learning](#machine-learning)
  - [YouTube](#youtube)
+ - [Podcasts](#podcasts)
  - [Mathematics](#mathematics)
  - [Physics](#physics)
  - [Games & Contests](#games-and-contests)
@@ -186,7 +187,7 @@
 
 ## Common Lisp
 - [Lisp Hackers, Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers)
-- [[L(λ)THW] Learn Lisp The Hard Way](http://learnlispthehardway.org/)
+- [L(λ)THW, Learn Lisp The Hard Way](http://learnlispthehardway.org/)
 - [Paul Graham's On Lisp, Advanced Techniques for Common Lisp](http://www.paulgraham.com/onlisp.html)
 - [Lisp in Small Parts](http://lisp.plasticki.com/)
 - [Common Lisp Koans](https://github.com/google/lisp-koans)
@@ -250,6 +251,25 @@
  - [Matemática Rio](https://www.youtube.com/user/matematicario)
  - [Art of the Problem](https://www.youtube.com/user/ArtOfTheProblem)
  - [CC50](https://www.youtube.com/user/CursoCC50)
+
+## Podcasts
+- [Grok Podcast](http://www.grokpodcast.com/) (Portuguese)
+- [Castálio Podcast](http://castalio.info/) (Portuguese)
+- [Hack N' Cast](http://hackncast.org/) (Portuguese)
+- [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/) (English)
+- [Ruby Rogues](https://devchat.tv/ruby-rogues) (English)
+- [The Elixir Fountain](https://soundcloud.com/elixirfountain) (English)
+- [The Changelog](https://changelog.com/podcast/) (English)
+- [Developer Tea](http://developertea.com/) (English)
+- [Hanselminutes](http://hanselminutes.com/) (English)
+- [Turing-Incomplete](https://turing.cool) (English)
+- [The Bike Shed](http://bikeshed.fm/) (English)
+- [Code Newbie](http://www.codenewbie.org/podcast) (English)
+- [Developer On Fire](http://developeronfire.com/) (English)
+- [Mostly Erlang](http://mostlyerlang.com/) (English)
+- [Functional Geekery](https://www.functionalgeekery.com/category/podcasts/) (English)
+- [The Type Theory Podcast](http://typetheorypodcast.com/) (English)
+- [The Haskell Cast](http://www.haskellcast.com/) (English)
 
 ## Mathematics
  - Tools
