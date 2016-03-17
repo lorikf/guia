@@ -90,8 +90,8 @@
  - [Organizing Code Files in C and C++](http://www.gamedev.net/page/resources/_/technical/general-programming/organizing-code-files-in-c-and-c-r1798)
 
 ## Processing
- - [Nature of code](http://natureofcode.com/book/introduction/)
  - [Processing tutorial](https://processing.org/tutorials/)
+ - [Nature of code](http://natureofcode.com/book/introduction/)
 
 ## Python
  - [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/)
