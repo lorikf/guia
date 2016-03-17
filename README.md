@@ -89,6 +89,10 @@
  - [IAR Advanced preprocessor tips and tricks](https://www.iar.com/support/resources/articles/advanced-preprocessor-tips-and-tricks/)
  - [Organizing Code Files in C and C++](http://www.gamedev.net/page/resources/_/technical/general-programming/organizing-code-files-in-c-and-c-r1798)
 
+## Processing
+ - [Nature of code](http://natureofcode.com/book/introduction/)
+ - [Processing tutorial](https://processing.org/tutorials/)
+
 ## Python
  - [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/)
  - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
@@ -306,6 +310,7 @@
  - [Differential & Integral Calculus (UCLA)](https://www.youtube.com/playlist?list=PL1BE3027EF549C7D1)
  - [Probability (UCLA)](https://www.youtube.com/playlist?list=PL5BE09709EECF36AA)
  - [Anotações Matemáticas (Renji Rodrigo)](https://bmpa.wordpress.com/2012/04/29/minhas-anotacoes/)
+ - 
 
 ## Physics
  - Material Recomendado
@@ -321,6 +326,7 @@
  - [Programmr](http://www.programmr.com/)
  - [URI Online Judge](https://www.urionlinejudge.com.br/)
  - [Project Euler](https://projecteuler.net/archives)
+ - [Real-Time Fluid Dynamics for Games](http://www.intpowertechcorp.com/GDC03.pdf)
 
 ## Miscellaneous
  - [Trending in Open Source](https://github.com/trending)
