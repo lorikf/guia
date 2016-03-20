@@ -114,6 +114,7 @@
 
 ## Perl
  - [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
+ - [Modern Perl](http://onyxneon.com/books/modern_perl/modern_perl_letter.pdf)
 
 ## Java
  - [Java Starter](http://t2ti.com/curso/video/java/basico/java_starter.php)
@@ -311,6 +312,7 @@
 ## Miscellaneous
  - [Trending in Open Source](https://github.com/trending)
  - [Explore GitHub](https://github.com/explore)
+ - [Hidden Features (S.O.)](http://stackoverflow.com/search?q=%5Bhidden-features%5D+is%3Aquestion)
  - [Github Visualizer](http://veniversum.me/git-visualizer/)
  - [SciHub](http://sci-hub.io/)
  - [Software Licenses in Plain English](https://tldrlegal.com/)
