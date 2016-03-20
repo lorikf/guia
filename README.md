@@ -125,7 +125,9 @@
  - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## PHP
- - [Design Patterns - PHP: The Right Way](http://www.phptherightway.com/pages/Design-Patterns.html)
+ - [PHP: The Right Way](http://www.phptherightway.com/)
+ - [PHP Best Practices](https://phpbestpractices.org)
+ - [PHP Pandas](http://daylerees.com/php-pandas/)
 
 ## Javascript
  - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
