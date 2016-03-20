@@ -116,6 +116,9 @@
 ## Perl
  - [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
  - [Modern Perl](http://onyxneon.com/books/modern_perl/modern_perl_letter.pdf)
+ - [Impatient Perl](http://www.greglondon.com/iperl/pdf/iperl.pdf)
+ - [Learning Perl the Hard Way](http://www.greenteapress.com/perl/perl.pdf)
+ - [Beginning Perl](http://web.archive.org/web/20120709053246/http://ofps.oreilly.com/titles/9781118013847/index.html)
 
 ## Java
  - [Java Starter](http://t2ti.com/curso/video/java/basico/java_starter.php)
