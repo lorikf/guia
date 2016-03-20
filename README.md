@@ -6,6 +6,7 @@
  - [General Programming](#general-programming)
  - [Learning Platforms](#learning-platforms)
  - [Languages](#languages)
+ - [Computer Graphics](#computer-graphics)
  - [Encryption & Hashing](#encryption-and-hashing)
  - [Networks](#networks)
  - [Compilers](#compilers)
@@ -198,6 +199,18 @@
  - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html)
  - [Community Scheme Wiki](http://community.schemewiki.org/)
 
+## Computer Graphics
+- [Cg/Unity tutorials](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
+- Tools
+   - [Blender](https://www.blender.org/)
+   - [L3DT](http://www.bundysoft.com/L3DT/)
+   - [Unity](https://unity3d.com/)
+- Languages
+   - Cg 
+     - [Documentation](http://http.developer.nvidia.com/Cg/index.html)
+     - [The Cg Tutorial](http://http.developer.nvidia.com/CgTutorial/cg_tutorial_frontmatter.html)
+
+
 ## Encryption and Hashing
  - [Encoding vs Encryption vs Hashing vs Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
  - [GPG/PGP Basics](http://aplawrence.com/Basics/gpg.html)
@@ -276,6 +289,7 @@
  - Tools
    - [WolframAlpha](http://www.wolframalpha.com/)
    - [GeoGebra](http://www.geogebra.org/)
+   - [MS Mathematics](https://www.microsoft.com/en-us/download/details.aspx?id=15702)
  - [BetterExplained](http://betterexplained.com/articles/category/math/)
  - Material Recomendado
    - [Cálculo I - S. F.](http://www.mat.ufmg.br/~sacha/textos/Calculo/Apostila_2015_02_26.pdf)
