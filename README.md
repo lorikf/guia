@@ -80,6 +80,7 @@
 ## C & C++
  - [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
  - [C Progressivo](http://www.cprogressivo.net/)
+ - [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)
  - [Learn C](http://www.learn-c.org/)
  - [Teach Yourself C in 24 Hours](http://aelinik.free.fr/c/)
  - [Stanford CS Education Library](http://cslibrary.stanford.edu/)
@@ -194,31 +195,30 @@
 ## Smalltalk
 
 ## Common Lisp
-- [Lisp Hackers, Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers)
-- [L(λ)THW, Learn Lisp The Hard Way](http://learnlispthehardway.org/)
-- [Paul Graham's On Lisp, Advanced Techniques for Common Lisp](http://www.paulgraham.com/onlisp.html)
-- [Lisp in Small Parts](http://lisp.plasticki.com/)
-- [Common Lisp Koans](https://github.com/google/lisp-koans)
-- [CLiki, Common Lisp Wiki](http://www.cliki.net/)
+ - [Lisp Hackers, Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers)
+ - [L(λ)THW, Learn Lisp The Hard Way](http://learnlispthehardway.org/)
+ - [Paul Graham's On Lisp, Advanced Techniques for Common Lisp](http://www.paulgraham.com/onlisp.html)
+ - [Lisp in Small Parts](http://lisp.plasticki.com/)
+ - [Common Lisp Koans](https://github.com/google/lisp-koans)
+ - [CLiki, Common Lisp Wiki](http://www.cliki.net/)
 
 ## Scheme
  - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html)
  - [Community Scheme Wiki](http://community.schemewiki.org/)
 
 ## Computer Graphics
-- [Cg/Unity tutorials](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
-- Tools
+ - [Cg/Unity tutorials](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
+ - Tools
    - [Blender](https://www.blender.org/)
    - [L3DT](http://www.bundysoft.com/L3DT/)
    - [Unity](https://unity3d.com/)
-- Languages
-   - Cg 
-     - [Documentation](http://http.developer.nvidia.com/Cg/index.html)
+ - Languages
+   - Cg
+     - [Cg Documentation](http://http.developer.nvidia.com/Cg/index.html)
      - [The Cg Tutorial](http://http.developer.nvidia.com/CgTutorial/cg_tutorial_frontmatter.html)
-
-- Processing
- - [Processing Tutorial](https://processing.org/tutorials/)
- - [Nature of Code](http://natureofcode.com/book/introduction/)
+   - Processing
+     - [Processing Tutorial](https://processing.org/tutorials/)
+     - [Nature of Code](http://natureofcode.com/book/introduction/)
 
 ## Encryption and Hashing
  - [Encoding vs Encryption vs Hashing vs Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
@@ -316,7 +316,6 @@
  - [Differential & Integral Calculus (UCLA)](https://www.youtube.com/playlist?list=PL1BE3027EF549C7D1)
  - [Probability (UCLA)](https://www.youtube.com/playlist?list=PL5BE09709EECF36AA)
  - [Anotações Matemáticas (Renji Rodrigo)](https://bmpa.wordpress.com/2012/04/29/minhas-anotacoes/)
- - 
 
 ## Physics
  - Material Recomendado
