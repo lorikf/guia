@@ -8,6 +8,7 @@ Todos são livres para contribuir dentro das regras. O conteúdo deve ser simila
 
 ## Colaboradores
  - André Cunha
+ - Diogo Felix
  - Giulia Vieira
  - Lucas Lopes
  - Matheus Souza
