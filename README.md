@@ -89,10 +89,6 @@
  - [IAR Advanced preprocessor tips and tricks](https://www.iar.com/support/resources/articles/advanced-preprocessor-tips-and-tricks/)
  - [Organizing Code Files in C and C++](http://www.gamedev.net/page/resources/_/technical/general-programming/organizing-code-files-in-c-and-c-r1798)
 
-## Processing
- - [Processing tutorial](https://processing.org/tutorials/)
- - [Nature of code](http://natureofcode.com/book/introduction/)
-
 ## Python
  - [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/)
  - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
@@ -213,6 +209,9 @@
      - [Documentation](http://http.developer.nvidia.com/Cg/index.html)
      - [The Cg Tutorial](http://http.developer.nvidia.com/CgTutorial/cg_tutorial_frontmatter.html)
 
+- Processing
+ - [Processing Tutorial](https://processing.org/tutorials/)
+ - [Nature of Code](http://natureofcode.com/book/introduction/)
 
 ## Encryption and Hashing
  - [Encoding vs Encryption vs Hashing vs Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
