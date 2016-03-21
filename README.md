@@ -216,6 +216,9 @@
      - [Documentation](http://http.developer.nvidia.com/Cg/index.html)
      - [The Cg Tutorial](http://http.developer.nvidia.com/CgTutorial/cg_tutorial_frontmatter.html)
 
+- Processing
+ - [Processing Tutorial](https://processing.org/tutorials/)
+ - [Nature of Code](http://natureofcode.com/book/introduction/)
 
 ## Encryption and Hashing
  - [Encoding vs Encryption vs Hashing vs Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
@@ -313,6 +316,7 @@
  - [Differential & Integral Calculus (UCLA)](https://www.youtube.com/playlist?list=PL1BE3027EF549C7D1)
  - [Probability (UCLA)](https://www.youtube.com/playlist?list=PL5BE09709EECF36AA)
  - [Anotações Matemáticas (Renji Rodrigo)](https://bmpa.wordpress.com/2012/04/29/minhas-anotacoes/)
+ - 
 
 ## Physics
  - Material Recomendado
@@ -328,6 +332,7 @@
  - [Programmr](http://www.programmr.com/)
  - [URI Online Judge](https://www.urionlinejudge.com.br/)
  - [Project Euler](https://projecteuler.net/archives)
+ - [Real-Time Fluid Dynamics for Games](http://www.intpowertechcorp.com/GDC03.pdf)
 
 ## Miscellaneous
  - [Trending in Open Source](https://github.com/trending)
