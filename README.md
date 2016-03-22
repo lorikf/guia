@@ -191,6 +191,7 @@
  - [The Zen of Erlang](http://ferd.ca/the-zen-of-erlang.html)
  - [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/content)
  - [Try Erlang](http://www.tryerlang.org/)
+ - [Elixir School](https://elixirschool.com/pt/)
 
 ## Smalltalk
 
