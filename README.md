@@ -99,6 +99,7 @@
  - [Async/await in Python 3.5](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5)
  - [Por que há tantos Pythons?](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
  - [Python Tutor](http://pythontutor.com/)
+ - [Anaconda](https://www.continuum.io/anaconda-community)
 
 ## Ruby
  - [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/)
