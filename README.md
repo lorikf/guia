@@ -313,6 +313,7 @@
    - [G.A.A.L. - Uma Visão Geométrica](http://www.mat.ufmg.br/ead/acervo/livros/Geometria%20Analitica%20e%20Algebra%20Linear%20-%20Uma%20Visao%20Geometrica%20-%20TI.pdf)
    - [Curso de Cálculo I - Sacha](https://www.youtube.com/watch?v=KyVYNbwfjtU&list=PLOiKHlNoCwd2s7rq1P4fGQ0iqf-eWi0Wo)
    - [Pequenos Erros que Causam Grandes Dificuldades](http://www.mat.ufmg.br/~taka/Pagina-CalcI/ManualDuvidas.pdf)
+ - [Curso de Cálculo de uma Variável](http://www.dma.im.ufrj.br/~mcabral/textos/cursoCalculoI-livro-a4-V2-2.pdf)
  - [Mathematics (MIT)](http://ocw.mit.edu/courses/mathematics/)
  - [Multivariable Calculus (Whitman)](https://www.whitman.edu/mathematics/multivariable/multivariable.pdf)
  - [Differential & Integral Calculus (UCLA)](https://www.youtube.com/playlist?list=PL1BE3027EF549C7D1)
