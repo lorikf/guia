@@ -146,6 +146,7 @@
 
 ## R
  - [Code School - Try R](http://tryr.codeschool.com/)
+ - [R Programming Tutorials](http://www.listendata.com/p/r-programming-tutorials.html)
  - [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
  - [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
  - [CRAN: Manuals](http://cran.r-project.org/manuals.html)
