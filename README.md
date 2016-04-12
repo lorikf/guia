@@ -189,7 +189,7 @@
  - [Learning F#](http://fsharp.org/about/learning.html)
  - [F# syntax in 60 seconds](http://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
 
-## Julia;
+## Julia
  - [Learning Julia](http://julialang.org/learning/)
  - [Julia Documentation](http://docs.julialang.org/en/release-0.4/)
  - [juliabook](https://github.com/chrisvoncsefalvay/juliabook)
