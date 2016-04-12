@@ -81,6 +81,7 @@
  - [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
  - [C Progressivo](http://www.cprogressivo.net/)
  - [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)
+ - [Linguagem C](http://www.lrc.ic.unicamp.br/~takeo/mc102_1s2016/LINGUAGEM_C.pdf)
  - [Learn C](http://www.learn-c.org/)
  - [Teach Yourself C in 24 Hours](http://aelinik.free.fr/c/)
  - [Stanford CS Education Library](http://cslibrary.stanford.edu/)
