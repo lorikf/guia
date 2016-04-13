@@ -102,6 +102,7 @@
  - [Async/await in Python 3.5](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5)
  - [Por que há tantos Pythons?](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
  - [Python Tutor](http://pythontutor.com/)
+ - [Anaconda](https://www.continuum.io/anaconda-community)
 
 ## Ruby
  - [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/)
@@ -209,6 +210,9 @@
  - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html)
  - [Community Scheme Wiki](http://community.schemewiki.org/)
 
+## Lua
+ - [Programming in Lua](http://www.lua.org/pil/contents.html)
+
 ## Computer Graphics
  - [Cg/Unity tutorials](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
  - Tools
@@ -270,6 +274,12 @@
  - [PyBrain](http://fastml.com/pybrain-a-simple-neural-networks-library-in-python/)
  - [Caffe - Deep Learning Framework](http://caffe.berkeleyvision.org/installation.html)
  - [Weka 3 - Data Mining](http://www.cs.waikato.ac.nz/ml/weka/)
+ - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-1/)
+ - [Torch](http://torch.ch/)
+ 
+## Computer simulation
+- [Simulação Avançada - Vida Artificial](https://student.dei.uc.pt/~guilhoto/downloads/vida_artificial.pdf)
+- [Computação Natural](http://www.computacaonatural.com.br/)
 
 ## YouTube
  - [Computerphile](https://www.youtube.com/user/Computerphile)
