@@ -275,11 +275,6 @@
  - [Caffe - Deep Learning Framework](http://caffe.berkeleyvision.org/installation.html)
  - [Weka 3 - Data Mining](http://www.cs.waikato.ac.nz/ml/weka/)
  - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-1/)
- - [Torch](http://torch.ch/)
- 
-## Computer simulation
-- [Simulação Avançada - Vida Artificial](https://student.dei.uc.pt/~guilhoto/downloads/vida_artificial.pdf)
-- [Computação Natural](http://www.computacaonatural.com.br/)
 
 ## YouTube
  - [Computerphile](https://www.youtube.com/user/Computerphile)
@@ -356,5 +351,8 @@
  - [Software Licenses in Plain English](https://tldrlegal.com/)
  - [Koding for Teams](http://www.koding.com/)
  - [Livecoding.TV](https://www.livecoding.tv/)
+ - [Simulação Avançada - Vida Artificial](https://student.dei.uc.pt/~guilhoto/downloads/vida_artificial.pdf)
+ - [Computação Natural](http://www.computacaonatural.com.br/)
+ - [Torch](http://torch.ch/)
  - [The ultimate guide on preventing Website Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping)
  - [Type Theory: A Modern Computable Paradigm for Math](http://www.science4all.org/le-nguyen-hoang/type-theory/)
