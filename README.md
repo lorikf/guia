@@ -284,6 +284,8 @@
  - [CC50](https://www.youtube.com/user/CursoCC50)
 
 ## Podcasts
+- [DEV na ESTRADA](http://devnaestrada.com.br/) (Portuguese)
+- [PODebug](http://www.podebug.com/) (Portuguese)
 - [Grok Podcast](http://www.grokpodcast.com/) (Portuguese)
 - [Castálio Podcast](http://castalio.info/) (Portuguese)
 - [Hack N' Cast](http://hackncast.org/) (Portuguese)
