@@ -190,6 +190,11 @@
  - [Learning F#](http://fsharp.org/about/learning.html)
  - [F# syntax in 60 seconds](http://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
 
+## Julia
+ - [Learning Julia](http://julialang.org/learning/)
+ - [Julia Documentation](http://docs.julialang.org/en/release-0.4/)
+ - [juliabook](https://github.com/chrisvoncsefalvay/juliabook)
+
 ## Erlang
  - [The Zen of Erlang](http://ferd.ca/the-zen-of-erlang.html)
  - [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/content)
@@ -284,6 +289,8 @@
  - [CC50](https://www.youtube.com/user/CursoCC50)
 
 ## Podcasts
+- [DEV na ESTRADA](http://devnaestrada.com.br/) (Portuguese)
+- [PODebug](http://www.podebug.com/) (Portuguese)
 - [Grok Podcast](http://www.grokpodcast.com/) (Portuguese)
 - [Castálio Podcast](http://castalio.info/) (Portuguese)
 - [Hack N' Cast](http://hackncast.org/) (Portuguese)
