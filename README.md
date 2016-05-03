@@ -284,6 +284,7 @@
 ## YouTube
  - [Computerphile](https://www.youtube.com/user/Computerphile)
  - [Numberphile](https://www.youtube.com/user/numberphile)
+ - [Strange Loop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw)
  - [Matemática Rio](https://www.youtube.com/user/matematicario)
  - [Art of the Problem](https://www.youtube.com/user/ArtOfTheProblem)
  - [CC50](https://www.youtube.com/user/CursoCC50)
