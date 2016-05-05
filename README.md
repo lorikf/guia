@@ -137,6 +137,8 @@
  - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
  - [The Entire JS Language in One Image](http://d2brer6wwumtdu.cloudfront.net/wp-content/uploads/2015/09/09191550/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg)
+ - [JS: The Right Way](http://jstherightway.org/)
+ - [JavaScript for Cats](http://jsforcats.com/)
 
 ## HTML/CSS
  - [Develop & Style Websites](http://learn.shayhowe.com/)
