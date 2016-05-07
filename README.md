@@ -355,7 +355,9 @@
  - [Programmr](http://www.programmr.com/)
  - [URI Online Judge](https://www.urionlinejudge.com.br/)
  - [Project Euler](https://projecteuler.net/archives)
- - [Real-Time Fluid Dynamics for Games](http://www.intpowertechcorp.com/GDC03.pdf)
+ - [UVA Online Judge](https://uva.onlinejudge.org/)
+ - [SPOJ Brasil](http://br.spoj.com/)
+ - [SPOJ International](http://www.spoj.com/)
 
 ## Miscellaneous
  - [Trending in Open Source](https://github.com/trending)
@@ -364,6 +366,7 @@
  - [Hidden Features (S.O.)](http://stackoverflow.com/search?q=%5Bhidden-features%5D+is%3Aquestion)
  - [Github Visualizer](http://veniversum.me/git-visualizer/)
  - [SciHub](http://sci-hub.io/)
+ - [Real-Time Fluid Dynamics for Games](http://www.intpowertechcorp.com/GDC03.pdf)
  - [Software Licenses in Plain English](https://tldrlegal.com/)
  - [Koding for Teams](http://www.koding.com/)
  - [Livecoding.TV](https://www.livecoding.tv/)
