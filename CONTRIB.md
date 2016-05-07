@@ -13,3 +13,4 @@ Todos são livres para contribuir dentro das regras. O conteúdo deve ser simila
  - Lucas Lopes
  - Matheus Souza
  - Raphael Augusto
+ - Renata Nésio
