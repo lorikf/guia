@@ -84,6 +84,7 @@
  - [Linguagem C](http://www.lrc.ic.unicamp.br/~takeo/mc102_1s2016/LINGUAGEM_C.pdf)
  - [Learn C](http://www.learn-c.org/)
  - [Learn C++](http://www.learncpp.com/)
+ - [Geeks4Geeks C](http://www.geeksforgeeks.org/c/)
  - [Teach Yourself C in 24 Hours](http://aelinik.free.fr/c/)
  - [Stanford CS Education Library](http://cslibrary.stanford.edu/)
  - [C Gibberish ↔ English](http://www.cdecl.org/)
