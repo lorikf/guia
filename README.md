@@ -83,6 +83,7 @@
  - [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)
  - [Linguagem C](http://www.lrc.ic.unicamp.br/~takeo/mc102_1s2016/LINGUAGEM_C.pdf)
  - [Learn C](http://www.learn-c.org/)
+ - [Learn C++](http://www.learncpp.com/)
  - [Teach Yourself C in 24 Hours](http://aelinik.free.fr/c/)
  - [Stanford CS Education Library](http://cslibrary.stanford.edu/)
  - [C Gibberish ↔ English](http://www.cdecl.org/)
@@ -317,7 +318,9 @@
    - [WolframAlpha](http://www.wolframalpha.com/)
    - [GeoGebra](http://www.geogebra.org/)
    - [MS Mathematics](https://www.microsoft.com/en-us/download/details.aspx?id=15702)
+ - [Slader (Textbook Solutions)](https://www.slader.com)
  - [BetterExplained](http://betterexplained.com/articles/category/math/)
+ - [PatrickJMT](http://patrickjmt.com/)
  - Material Recomendado
    - [Cálculo I - S. F.](http://www.mat.ufmg.br/~sacha/textos/Calculo/Apostila_2015_02_26.pdf)
    - [Cálculo I - M. C.](http://www.dma.im.ufrj.br/~mcabral/textos/cursoCalculoI-livro-a4-V2-2.pdf)
