@@ -322,6 +322,7 @@
  - [Slader (Textbook Solutions)](https://www.slader.com)
  - [BetterExplained](http://betterexplained.com/articles/category/math/)
  - [PatrickJMT](http://patrickjmt.com/)
+ - [Cálculo I - USP](http://eaulas.usp.br/portal/course.action?course=2600)
  - Material Recomendado
    - [Cálculo I - S. F.](http://www.mat.ufmg.br/~sacha/textos/Calculo/Apostila_2015_02_26.pdf)
    - [Cálculo I - M. C.](http://www.dma.im.ufrj.br/~mcabral/textos/cursoCalculoI-livro-a4-V2-2.pdf)
