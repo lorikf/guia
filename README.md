@@ -242,6 +242,7 @@
  - [An Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
  - [GPG tutorial and PGP Public Key](https://futureboy.us/pgp.html)
  - [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html)
+ - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
  - [Provably Fair Shuffling Through Cryptography](https://techblog.bitzino.com/2012-06-30-provably-fair-shuffling-through-cryptography.html)
 
 ## Networks
