@@ -363,6 +363,7 @@
 
 ## Miscellaneous
  - [Trending in Open Source](https://github.com/trending)
+ - [WakaTime - Quantify your coding](https://wakatime.com/)
  - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
  - [Explore GitHub](https://github.com/explore)
  - [Hidden Features (S.O.)](http://stackoverflow.com/search?q=%5Bhidden-features%5D+is%3Aquestion)
