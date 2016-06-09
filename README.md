@@ -320,6 +320,7 @@
  - Tools
    - [WolframAlpha](http://www.wolframalpha.com/)
    - [GeoGebra](http://www.geogebra.org/)
+   - [Symbolab Math Solver](https://www.symbolab.com/)
    - [MS Mathematics](https://www.microsoft.com/en-us/download/details.aspx?id=15702)
  - [Slader (Textbook Solutions)](https://www.slader.com)
  - [BetterExplained](http://betterexplained.com/articles/category/math/)
