@@ -84,6 +84,7 @@
  - [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)
  - [Linguagem C](http://www.lrc.ic.unicamp.br/~takeo/mc102_1s2016/LINGUAGEM_C.pdf)
  - [Learn C](http://www.learn-c.org/)
+ - [C++ Complete Reference](http://goo.gl/Le6gUi)
  - [Learn C++](http://www.learncpp.com/)
  - [Geeks4Geeks C](http://www.geeksforgeeks.org/c/)
  - [Teach Yourself C in 24 Hours](http://aelinik.free.fr/c/)
