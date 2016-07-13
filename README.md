@@ -330,6 +330,7 @@
    - [Cálculo I - S. F.](http://www.mat.ufmg.br/~sacha/textos/Calculo/Apostila_2015_02_26.pdf)
    - [Cálculo I - M. C.](http://www.dma.im.ufrj.br/~mcabral/textos/cursoCalculoI-livro-a4-V2-2.pdf)
    - [Cálculo Vol. 1 - James Stewart](https://mega.nz/#!m8RUgS4S!lwskupcv1jnVKfhqJWl5rD7hgkZj54rgw6-qN6xzUyg)
+   - [Cálculo Vol. 2 - James Stewart](https://mega.nz/#!RctFjCyI!tUYuEWKQkowKVtAw5ivp5yCTdYAnBnSNUKkS0ah_l0Q)
    - [Um Curso de G.A.A.L. - R. J.](https://www.dropbox.com/s/jj3xq0hjv2z39zp/gaalt0.pdf?)
    - [Discrete Mathematics and its Applications](http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf)
    - [Apostilas - Reginaldo](http://www.mat.ufmg.br/~regi/apostilas.html)
