@@ -173,6 +173,7 @@
  - [Haskell for all](http://www.haskellforall.com/)
  - [Haskell Exercises](https://github.com/commercialhaskell/haskelldocumentation/tree/master/exercises)
  - [Write You a Haskell (Stephen Diehl)](http://dev.stephendiehl.com/fun/)
+ - [What I Wish I Knew When Learning Haskell (Stephen Diehl)](http://dev.stephendiehl.com/hask)
  - [Monads for Dummies (Stephan Boyer)](https://www.stephanboyer.com/post/83/monads-for-dummies)
  - [The Marvels of Monads](http://blogs.msdn.com/b/wesdyer/archive/2008/01/11/the-marvels-of-monads.aspx)
  - [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
