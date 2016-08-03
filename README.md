@@ -5,6 +5,7 @@
 ## Table of Contents
  - [General Programming](#general-programming)
  - [Learning Platforms](#learning-platforms)
+ - [Algorithms] (#algorithms)
  - [Languages](#languages)
  - [Computer Graphics](#computer-graphics)
  - [Encryption & Hashing](#encryption-and-hashing)
@@ -15,6 +16,7 @@
  - [Podcasts](#podcasts)
  - [Mathematics](#mathematics)
  - [Physics](#physics)
+ - [Digital Electronics] (#digital-electronics)
  - [Games & Contests](#games-and-contests)
  - [Miscellaneous](#miscellaneous)
 
@@ -356,7 +358,7 @@
  - Material Recomendado
    - [Física Experimental - Lab1](http://www.fisica.ufmg.br/~lab1/)
    - [Física Experimental Básica na Universidade](https://www.passeidireto.com/arquivo/975892/fisica-experimental-basica-na-universidade-)
-   - [Fisica Basica: Mecanica (1ª edicao)] (http://www22.zippyshare.com/v/n42cjIKo/file.html)
+   - [Física Básica: Mecânica (1ª edição)] (http://www22.zippyshare.com/v/n42cjIKo/file.html)
  - [Feynman Lectures (Caltech)](http://www.feynmanlectures.caltech.edu/)
  - [Physics (MIT)](http://ocw.mit.edu/courses/physics/)
 
