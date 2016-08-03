@@ -5,6 +5,7 @@
 ## Table of Contents
  - [General Programming](#general-programming)
  - [Learning Platforms](#learning-platforms)
+ - [Algorithms] (#algorithms)
  - [Languages](#languages)
  - [Computer Graphics](#computer-graphics)
  - [Encryption & Hashing](#encryption-and-hashing)
@@ -15,6 +16,7 @@
  - [Podcasts](#podcasts)
  - [Mathematics](#mathematics)
  - [Physics](#physics)
+ - [Digital Electronics] (#digital-electronics)
  - [Games & Contests](#games-and-contests)
  - [Miscellaneous](#miscellaneous)
 
@@ -75,6 +77,11 @@
  - [Stanford Courses](http://online.stanford.edu/courses/allcourses)
  - [Computer Science and Electrical Engineering (MIT)](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
  - [Computer Science and Electrical Engineering (Audio & Video, MIT)](http://ocw.mit.edu/courses/audio-video-courses/#electrical-engineering-and-computer-science)
+
+## Algorithms 
+- Material recomendado
+ - [Estruturas de Dados - Waldemar Celes e Jose Lucas Rangel] (http://www105.zippyshare.com/v/nQXthpp2/file.html)
+ - [Projetos de Algoritmos Com Implementações em Pascal e C - Nívio Ziviani] (http://www76.zippyshare.com/v/F55tFVWi/file.html)
 
 ## Languages
 
@@ -351,8 +358,13 @@
  - Material Recomendado
    - [Física Experimental - Lab1](http://www.fisica.ufmg.br/~lab1/)
    - [Física Experimental Básica na Universidade](https://www.passeidireto.com/arquivo/975892/fisica-experimental-basica-na-universidade-)
+   - [Física Básica: Mecânica (1ª edição)] (http://www22.zippyshare.com/v/n42cjIKo/file.html)
  - [Feynman Lectures (Caltech)](http://www.feynmanlectures.caltech.edu/)
  - [Physics (MIT)](http://ocw.mit.edu/courses/physics/)
+
+## Digital Electronics
+ - Material Recomendado
+   -  [Contemporary Logic Design (2nd Edition) - Randy H. Katz, Gaetano Borriello] (http://www78.zippyshare.com/v/ugDNZWQj/file.html)
 
 ## Games and Contests
  - [Scratch](https://scratch.mit.edu/)
