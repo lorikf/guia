@@ -367,6 +367,7 @@
    -  [Contemporary Logic Design (2nd Edition) - Randy H. Katz, Gaetano Borriello] (http://www78.zippyshare.com/v/ugDNZWQj/file.html)
 
 ## Games and Contests
+ - [CodePit](https://www.codepit.io/)
  - [Scratch](https://scratch.mit.edu/)
  - [Code Fights](https://codefights.com/)
  - [HackerRank](https://www.hackerrank.com/)
