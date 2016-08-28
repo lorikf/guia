@@ -5,7 +5,7 @@
 ## Table of Contents
  - [General Programming](#general-programming)
  - [Learning Platforms](#learning-platforms)
- - [Algorithms] (#algorithms)
+ - [Algorithms](#algorithms)
  - [Languages](#languages)
  - [Computer Graphics](#computer-graphics)
  - [Encryption & Hashing](#encryption-and-hashing)
@@ -16,7 +16,7 @@
  - [Podcasts](#podcasts)
  - [Mathematics](#mathematics)
  - [Physics](#physics)
- - [Digital Electronics] (#digital-electronics)
+ - [Digital Electronics](#digital-electronics)
  - [Games & Contests](#games-and-contests)
  - [Miscellaneous](#miscellaneous)
 
@@ -256,6 +256,7 @@
  - [Provably Fair Shuffling Through Cryptography](https://techblog.bitzino.com/2012-06-30-provably-fair-shuffling-through-cryptography.html)
 
 ## Networks
+ - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/)
  - [Redes de Computadores](https://pt.coursera.org/course/comnetworks)
  - [Tráfego | RNP](http://www.rnp.br/servicos/conectividade/trafego)
  - [SIMET](http://simet.nic.br/mapas/)
