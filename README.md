@@ -365,7 +365,7 @@
 
 ## Digital Electronics
  - Material Recomendado
-   -  [Contemporary Logic Design (2nd Edition) - Randy H. Katz, Gaetano Borriello] (http://www78.zippyshare.com/v/ugDNZWQj/file.html)
+   -  [Contemporary Logic Design (2nd Edition) - Randy H. Katz, Gaetano Borriello] (http://www51.zippyshare.com/v/VQZDji9q/file.html)
 
 ## Games and Contests
  - [CodePit](https://www.codepit.io/)
