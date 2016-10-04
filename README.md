@@ -47,7 +47,7 @@
  - [Learn Enough to Be Dangerous](http://www.learnenough.com/)
  - [Quick Summary of Programming Languages](https://wiki.installgentoo.com/index.php/Programming_languages)
  - [Programming Languages Paradigms](http://www.cyan-lang.org/jose/courses/14-1/PLP/lpa.pdf)
- - [Programming Concepts](https://wiki.installgentoo.com/index.php/Programming_concepts)
+ - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
  - [CS50](https://cs50.harvard.edu/)
  - Git
    - [Pro Git Book](http://git-scm.com/book/en/v2)
