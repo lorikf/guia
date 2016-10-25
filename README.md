@@ -353,6 +353,7 @@
  - [Multivariable Calculus (Whitman)](https://www.whitman.edu/mathematics/multivariable/multivariable.pdf)
  - [Differential & Integral Calculus (UCLA)](https://www.youtube.com/playlist?list=PL1BE3027EF549C7D1)
  - [Probability (UCLA)](https://www.youtube.com/playlist?list=PL5BE09709EECF36AA)
+ - [A First Course in Probability (Sheldon Ross)](http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf)
  - [Anotações Matemáticas (Renji Rodrigo)](https://bmpa.wordpress.com/2012/04/29/minhas-anotacoes/)
 
 ## Physics
