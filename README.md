@@ -48,6 +48,7 @@
  - [Quick Summary of Programming Languages](https://wiki.installgentoo.com/index.php/Programming_languages)
  - [Programming Languages Paradigms](http://www.cyan-lang.org/jose/courses/14-1/PLP/lpa.pdf)
  - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+ - [ExplainShell](http://explainshell.com/)
  - [CS50](https://cs50.harvard.edu/)
  - Git
    - [Pro Git Book](http://git-scm.com/book/en/v2)
