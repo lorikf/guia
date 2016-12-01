@@ -76,6 +76,7 @@
  - [Udemy Development (Free)](https://www.udemy.com/courses/development/all-courses/?price=price-free&lang=en)
  - [Udemy IT & Software (Free)](https://www.udemy.com/courses/it-and-software/all-courses/?price=price-free&lang=en)
  - [Stanford Courses](http://online.stanford.edu/courses/allcourses)
+ - [Cybrary.IT](https://www.cybrary.it/)
  - [Computer Science and Electrical Engineering (MIT)](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
  - [Computer Science and Electrical Engineering (Audio & Video, MIT)](http://ocw.mit.edu/courses/audio-video-courses/#electrical-engineering-and-computer-science)
 
@@ -293,9 +294,6 @@
  - [Machine Learning (Nando de Freitas)](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
  - [Top 10 Data Mining Algorithms in Plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
  - [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
- - [PyBrain](http://fastml.com/pybrain-a-simple-neural-networks-library-in-python/)
- - [Caffe - Deep Learning Framework](http://caffe.berkeleyvision.org/installation.html)
- - [Weka 3 - Data Mining](http://www.cs.waikato.ac.nz/ml/weka/)
  - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-1/)
 
 ## YouTube
@@ -369,7 +367,7 @@
  - Material Recomendado
    -  [Contemporary Logic Design (2nd Edition) - Randy H. Katz, Gaetano Borriello] (http://www51.zippyshare.com/v/VQZDji9q/file.html)
 
-## Games and Contests
+## Games & Programming Contests
  - [CodePit](https://www.codepit.io/)
  - [Scratch](https://scratch.mit.edu/)
  - [Code Fights](https://codefights.com/)
@@ -398,3 +396,7 @@
  - [Torch](http://torch.ch/)
  - [The ultimate guide on preventing Website Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping)
  - [Type Theory: A Modern Computable Paradigm for Math](http://www.science4all.org/le-nguyen-hoang/type-theory/)
+
+## Todo
+ - Add infosec links.
+ - Remove outdated/not so awesome links.
