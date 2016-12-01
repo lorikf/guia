@@ -21,8 +21,8 @@
  - [Miscellaneous](#miscellaneous)
 
 ## General Programming
- - [Computer Science Books](https://shodan.me/books/)
- - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+ - [Computer Science Books (Shodan)](https://shodan.me/books/)
+ - [Free Programming Books (VHF Repo)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
  - [Computer Science (Open Source Society)](https://github.com/open-source-society/computer-science)
  - [621+ Programming Resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.sr0jfcxu4)
  - [30 Free Programming eBooks](http://citizen428.net/blog/2010/08/12/30-free-programming-ebooks/)
@@ -400,3 +400,4 @@
 ## Todo
  - Add infosec links.
  - Remove outdated/not so awesome links.
+ - Improve titles.
