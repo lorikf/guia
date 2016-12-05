@@ -43,7 +43,6 @@
  - [Big O Complexity Cheat Sheet](http://bigocheatsheet.com/)
  - [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
  - [Computer Science Field Guide](http://www.cosc.canterbury.ac.nz/csfieldguide/dev/dev/index.html)
- - [Onlurking's Reading List](http://onlurking.github.io/reading/)
  - [Translating Mathematics into Code](http://matt.might.net/articles/discrete-math-and-code/)
  - [Learn Enough to Be Dangerous](http://www.learnenough.com/)
  - [Quick Summary of Programming Languages](https://wiki.installgentoo.com/index.php/Programming_languages)
