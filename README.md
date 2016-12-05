@@ -374,16 +374,17 @@
 
 ## Games & Contests
  - Programming
+   - [CodeForces](http://codeforces.com/?locale=en)
    - [CodePit](https://www.codepit.io/)
-   - [Scratch](https://scratch.mit.edu/)
    - [Code Fights](https://codefights.com/)
    - [HackerRank](https://www.hackerrank.com/)
    - [Programmr](http://www.programmr.com/)
-   - [URI Online Judge](https://www.urionlinejudge.com.br/)
    - [Project Euler](https://projecteuler.net/archives)
+   - [URI Online Judge](https://www.urionlinejudge.com.br/)
    - [UVA Online Judge](https://uva.onlinejudge.org/)
    - [SPOJ Brasil](http://br.spoj.com/)
    - [SPOJ International](http://www.spoj.com/)
+   - [Scratch](https://scratch.mit.edu/)
  - Infosec
    - Repos
      - [pwntools](https://github.com/Gallopsled/pwntools)
