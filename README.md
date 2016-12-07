@@ -45,7 +45,6 @@
  - [Computer Science Field Guide](http://www.cosc.canterbury.ac.nz/csfieldguide/dev/dev/index.html)
  - [Translating Mathematics into Code](http://matt.might.net/articles/discrete-math-and-code/)
  - [Learn Enough to Be Dangerous](http://www.learnenough.com/)
- - [Quick Summary of Programming Languages](https://wiki.installgentoo.com/index.php/Programming_languages)
  - [Programming Languages Paradigms](http://www.cyan-lang.org/jose/courses/14-1/PLP/lpa.pdf)
  - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
  - [ExplainShell](http://explainshell.com/)
