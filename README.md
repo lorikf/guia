@@ -49,6 +49,7 @@
  - [Learn Enough to Be Dangerous](http://www.learnenough.com/)
  - [Programming Languages Paradigms](http://www.cyan-lang.org/jose/courses/14-1/PLP/lpa.pdf)
  - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+ - [SyntaxDB](https://syntaxdb.com/)
  - [ExplainShell](http://explainshell.com/)
  - [CS50](https://cs50.harvard.edu/)
 
