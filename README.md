@@ -385,6 +385,7 @@
    - [UVA Online Judge](https://uva.onlinejudge.org/)
    - [SPOJ Brasil](http://br.spoj.com/)
    - [SPOJ International](http://www.spoj.com/)
+   - [Exercism.IO](http://exercism.io/)
    - [Scratch](https://scratch.mit.edu/)
  - Infosec
    - Repos
