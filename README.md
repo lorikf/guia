@@ -5,7 +5,7 @@
  - [Contribution guide](CONTRIB.md)
 
 ## Table of Contents
- - [General Programming](#general-programming)
+ - [General CS](#general-cs)
  - [Learning Platforms](#learning-platforms)
  - [Algorithms](#algorithms)
  - [Languages](#languages)
@@ -23,7 +23,7 @@
  - [Malware Analysis](#malware-analysis)
  - [Miscellaneous](#miscellaneous)
 
-## General Programming
+## General CS
  - [Computer Science Books (Shodan)](https://shodan.me/books/)
  - [Free Programming Books (VHF Repo)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
  - [Computer Science (Open Source Society)](https://github.com/open-source-society/computer-science)
