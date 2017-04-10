@@ -75,8 +75,8 @@
 
 ## Algorithms 
 - Material recomendado
- - [Estruturas de Dados - Waldemar Celes e Jose Lucas Rangel] (http://www105.zippyshare.com/v/nQXthpp2/file.html)
- - [Projetos de Algoritmos Com Implementações em Pascal e C - Nívio Ziviani] (http://www76.zippyshare.com/v/F55tFVWi/file.html)
+ - [Estruturas de Dados - Waldemar Celes e Jose Lucas Rangel](http://www105.zippyshare.com/v/nQXthpp2/file.html)
+ - [Projetos de Algoritmos Com Implementações em Pascal e C - Nívio Ziviani](http://www76.zippyshare.com/v/F55tFVWi/file.html)
 
 ## Languages
 
@@ -367,13 +367,13 @@
  - Material Recomendado
    - [Física Experimental - Lab1](http://www.fisica.ufmg.br/~lab1/)
    - [Física Experimental Básica na Universidade](https://www.passeidireto.com/arquivo/975892/fisica-experimental-basica-na-universidade-)
-   - [Física Básica: Mecânica (1ª edição)] (http://www22.zippyshare.com/v/n42cjIKo/file.html)
+   - [Física Básica: Mecânica (1ª edição)](http://www22.zippyshare.com/v/n42cjIKo/file.html)
  - [Feynman Lectures (Caltech)](http://www.feynmanlectures.caltech.edu/)
  - [Physics (MIT)](http://ocw.mit.edu/courses/physics/)
 
 ## Digital Electronics
  - Material Recomendado
-   -  [Contemporary Logic Design (2nd Edition) - Randy H. Katz, Gaetano Borriello] (http://www51.zippyshare.com/v/VQZDji9q/file.html)
+   -  [Contemporary Logic Design (2nd Edition) - Randy H. Katz, Gaetano Borriello](http://www51.zippyshare.com/v/VQZDji9q/file.html)
 
 ## Games & Contests
  - Programming
