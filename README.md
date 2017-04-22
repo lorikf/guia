@@ -75,8 +75,8 @@
 
 ## Algorithms 
 - Material recomendado
- - [Estruturas de Dados - Waldemar Celes e Jose Lucas Rangel](http://www105.zippyshare.com/v/nQXthpp2/file.html)
- - [Projetos de Algoritmos Com Implementações em Pascal e C - Nívio Ziviani](http://www76.zippyshare.com/v/F55tFVWi/file.html)
+ - [Estruturas de Dados - Waldemar Celes e Jose Lucas Rangel](https://drive.google.com/drive/folders/0BwV_da1xnClAeFBsSlhnMVNtdnM)
+ - [Projetos de Algoritmos Com Implementações em Pascal e C - Nívio Ziviani](https://drive.google.com/drive/folders/0BwV_da1xnClAeFBsSlhnMVNtdnM)
 
 ## Languages
 
