@@ -406,6 +406,7 @@
    - [Root-me](https://www.root-me.org/en/Capture-The-Flag/)
    - [PicoCTF](https://picoctf.com)
    - [RingZer0 CTF](https://ringzer0team.com/)
+   - [HackTheBox](https://www.hackthebox.eu/en)
    - [Wargame-100security](http://www.100security.com.br/wargame/)
    - [Hack Yeaster](http://hackyeaster.hacking-lab.com)
    - [SCTF](https://sctf.io/)
